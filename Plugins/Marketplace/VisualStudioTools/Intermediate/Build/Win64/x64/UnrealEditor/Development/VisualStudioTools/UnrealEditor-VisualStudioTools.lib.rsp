@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VisualStudioTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\KGA\Documents\Unreal Projects\Paragon\Intermediate\Build\Win64\x64\ParagonEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\KGA\Documents\Unreal Projects\Paragon\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+"C:\Users\KGA\Documents\Unreal Projects\Paragon\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
+/OUT:"C:\Users\KGA\Documents\Unreal Projects\Paragon\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\UnrealEditor-VisualStudioTools.lib"
